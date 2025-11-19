@@ -250,21 +250,6 @@ Mobile Development     ██████████████░░░░░
 
 ---
 
-## 🏆 Experience Highlights
-
-<div align="center">
-
-| 💼 Experience | 🎯 Impact | 🛠️ Skills Used |
-|:---:|:---:|:---:|
-| **Frontend Development** | Led UI/UX for 4+ projects | React, Tailwind, JavaFX |
-| **Freelance Translator** | WordPress multilingual content | Communication, Attention to Detail |
-| **Team Projects** | Collaborated on complex systems | Git, Teamwork, Leadership |
-| **Academic Projects** | Built 10+ full-stack applications | Problem Solving, Clean Code |
-
-</div>
-
----
-
 ## 📚 Currently Exploring
 
 <div align="center">
@@ -301,36 +286,6 @@ Scalable architecture patterns
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-## 🎯 2025 Goals
-
-<div align="center">
-
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#ff6b9d'}}}%%
-mindmap
-  root((2025 Goals))
-    Open Source
-      Contribute to 5+ projects
-      Build reusable components
-      Help community
-    Projects
-      Deploy ShopSafe live
-      3 personal projects
-      Mobile app portfolio
-    Learning
-      Master React Native
-      Advanced TypeScript
-      System Design
-    Career
-      Freelance work
-      Build portfolio
-      Network with devs
-```
 
 </div>
 
