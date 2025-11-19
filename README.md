@@ -59,12 +59,7 @@
 
 ### ⚙️ Backend & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git,github,vscode" />
-</p>
-
-### 💻 Languages I Speak
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,nodejs,express,mongodb,mysql,git,github,vscode" />
 </p>
 
 ### 🎯 Special Skills
@@ -231,7 +226,6 @@ graph LR
 
 ---
 
-
 <div align="center">
 
 ### 💪 Expertise Level
@@ -245,6 +239,21 @@ JavaFX & Desktop Apps  ████████████████░░░
 Database Management    ███████████████░░░░░░   70%
 Mobile Development     ██████████████░░░░░░░   65%
 ```
+
+</div>
+
+---
+
+## 🏆 Experience Highlights
+
+<div align="center">
+
+| 💼 Experience | 🎯 Impact | 🛠️ Skills Used |
+|:---:|:---:|:---:|
+| **Frontend Development** | Develop UI/UX for 4+ projects | React, Tailwind, JavaFX |
+| **Freelance Translator** | WordPress multilingual content | Communication, Attention to Detail |
+| **Team Projects** | Collaborated on complex systems | Git, Teamwork, Leadership |
+| **Academic Projects** | Built 10+ full-stack applications | Problem Solving, Clean Code |
 
 </div>
 
@@ -321,13 +330,8 @@ Whether you need a beautiful frontend, want to discuss tech, or just want to con
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hadia-Sarwar)
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-FF6B9D?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Hadia-Sarwar)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-### 💭 Favorite Quote
-
-*"Design is not just what it looks like and feels like. Design is how it works."*  
-— Steve Jobs
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
 
 </div>
